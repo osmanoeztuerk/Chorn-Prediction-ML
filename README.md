@@ -1,2 +1,1 @@
-# Chorn-Prediction-ML
-# Chorn-Prediction-ML
+# Churn-Prediction-ML
